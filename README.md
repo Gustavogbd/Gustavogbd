@@ -1,6 +1,6 @@
 - 👋 Olá, sou o @Gustavogbd
 - 👀 Estou aqui para registrar meu progresso como programador
-- 🌱 Atualmente estudando Python e JavaScript
+- 🌱 Atualmente estudando JavaScript
 - 📫 Construindo meu site.....
 
 <!---
