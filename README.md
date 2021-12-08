@@ -8,7 +8,7 @@ Depois de trabalhar 3 anos e meio na GOL Linhas Aéreas, dei ouvidos ao pensamen
 
 
 
-Aqui no GitHub pretendo registrar todo o meu progresso ligado ao meu constante aprendizado. Daqui, espero poder compor o time de alguma empresa inovadora, que goste de trabalhar com coisas desafiadoras e que se permita me ensinar.
+Aqui no GitHub pretendo registrar todo o meu progresso ligado ao meu constante aprendizado. Daqui, espero poder compor o time de alguma empresa inovadora, que goste de trabalhar com tarefas desafiadoras e que se permita me ensinar.
 <!---
 Gustavogbd/Gustavogbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
