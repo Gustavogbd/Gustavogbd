@@ -6,9 +6,14 @@
   <img align="center" alt="Gustavogbd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">✅ - 
   <img align="center" alt="Gustavogbd-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">Estudando...
 </div>
+
+##
+
 - Amo estudar e ativar meu lado autodidata.<br>
 - Trabalhei por três anos na Aviação Civil e, em novembro de 2021, eu pedi demissão para migrar de carreira e me dedicar 100% naquilo que eu gosto, que é programar.<br> 
 - Aqui no GitHub pretendo registrar todo o meu progresso ligado ao meu constante aprendizado. Daqui, espero poder compor o time de alguma empresa inovadora, que goste de trabalhar com tarefas desafiadoras e estimule o aprendizado constante.<br>
+
+##
 <div align="center">
   <a href="https://github.com/Gustavogbd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavogbd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
