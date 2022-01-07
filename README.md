@@ -1,18 +1,18 @@
 ## 👋 Olá, sou o Gustavo,
-- 🌱 Atualmente estudando JavaScript e React.js
-- Amo estudar e ativar meu lado autodidata. 
-- Trabalhei por três anos na Aviação Civil e, em novembro de 2021, eu pedi demissão para migrar de carreira e me dedicar 100% naquilo que eu gosto, que é programar. 
-- Aqui no GitHub pretendo registrar todo o meu progresso ligado ao meu constante aprendizado. Daqui, espero poder compor o time de alguma empresa inovadora, que goste de trabalhar com tarefas desafiadoras e estimule o aprendizado constantemente.
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Gustavogbd-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">✅ - 
+  <img align="center" alt="Gustavogbd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">✅ - 
+  <img align="center" alt="Gustavogbd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">✅ - 
+  <img align="center" alt="Gustavogbd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">✅ - 
+  <img align="center" alt="Gustavogbd-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">Estudando...
+</div>
+- Amo estudar e ativar meu lado autodidata.<br>
+- Trabalhei por três anos na Aviação Civil e, em novembro de 2021, eu pedi demissão para migrar de carreira e me dedicar 100% naquilo que eu gosto, que é programar.<br> 
+- Aqui no GitHub pretendo registrar todo o meu progresso ligado ao meu constante aprendizado. Daqui, espero poder compor o time de alguma empresa inovadora, que goste de trabalhar com tarefas desafiadoras e estimule o aprendizado constante.<br>
 <div align="center">
   <a href="https://github.com/Gustavogbd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavogbd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavogbd&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Gustavogbd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gustavogbd-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gustavogbd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gustavogbd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
