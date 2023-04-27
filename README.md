@@ -3,8 +3,7 @@
   <img align="center" alt="Gustavogbd-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">✅ - 
   <img align="center" alt="Gustavogbd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">✅ - 
   <img align="center" alt="Gustavogbd-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">✅ - 
-  <img align="center" alt="Gustavogbd-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />Estudando...
-  <img align="center" alt="Gustavogbd-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Estudando...
+  <img align="center" alt="Gustavogbd-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />Estudando...
 </div>
 
 ##
