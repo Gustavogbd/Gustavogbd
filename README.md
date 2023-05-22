@@ -1,23 +1,28 @@
 ## 👋 Olá, sou o Gustavo,
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Gustavogbd-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">✅ - 
-  <img align="center" alt="Gustavogbd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">✅ - 
-  <img align="center" alt="Gustavogbd-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">✅ - 
-  <img align="center" alt="Gustavogbd-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />Estudando...
+  - <img align="center" alt="Gustavogbd-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> - 
+  <img align="center" alt="Gustavogbd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - 
+  <img align="center" alt="Gustavogbd-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> - 
+  <img align="center" alt="Gustavogbd-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> - 
+  <img align="center" alt="Gustavogbd-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> - 
+  <img align="center" alt="Gustavogbd-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -
+  <img align="center" alt="Gustavogbd-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> -
+  <img align="center" alt="Gustavogbd-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -
+  
 </div>
 
 ##
 
 - Amo estudar e ativar meu lado autodidata.<br>
-- Trabalhei por três anos na Aviação Civil e, em novembro de 2021, eu pedi demissão para migrar de carreira e me dedicar 100% naquilo que eu gosto, que é programar.<br> 
+- Trabalhei por três anos na Aviação Civil e, em novembro de 2021, decidi migrar de carreira e me dedicar 100% naquilo que eu gosto, que é programar.<br> 
 - Aqui no GitHub pretendo registrar todo o meu progresso ligado ao meu constante aprendizado. Daqui, espero poder compor o time de alguma empresa inovadora, que goste de trabalhar com tarefas desafiadoras e estimule o aprendizado constante.<br>
 
 ##
-<div align="center">
-  <a href="https://github.com/Gustavogbd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavogbd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavogbd&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+  | Stats               | Linguagens               |
+  | ---------------------- | ---------------------- |
+  | [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavogbd&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavogbd&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
+
   
   ##
  
