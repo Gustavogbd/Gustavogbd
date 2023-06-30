@@ -14,9 +14,7 @@
 
 ##
 
-- Amo estudar e ativar meu lado autodidata.<br>
-- Trabalhei por três anos na Aviação Civil e, em novembro de 2021, decidi migrar de carreira e me dedicar 100% naquilo que eu gosto, que é programar.<br> 
-- Aqui no GitHub pretendo registrar todo o meu progresso ligado ao meu constante aprendizado. Daqui, espero poder compor o time de alguma empresa inovadora, que goste de trabalhar com tarefas desafiadoras e estimule o aprendizado constante.<br>
+- Amo estudar apenas
 
 ##
 
