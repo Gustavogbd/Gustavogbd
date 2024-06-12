@@ -14,7 +14,9 @@
 
 ##
 
-- Amo estudar apenas
+- Passionate and driven postgraduate student specializing in Artificial Intelligence.
+Seeking an internship opportunity where I can gain practical experience, contribute to exciting AI initiatives, and further develop my expertise in artificial intelligence.
+Proficient in Python, and Java, with practical experience in utilizing AI frameworks such as TensorFlow, and PyTorch. 
 
 ##
 
